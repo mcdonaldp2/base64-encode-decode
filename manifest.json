@@ -1,0 +1,10 @@
+{
+    "name": "Base64 Encode-Decode",
+    "description": "encode strings to base64 or decode base64 strings",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html"
+    }
+  }
+  
